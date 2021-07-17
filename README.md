@@ -1,3 +1,12 @@
+# Thực hành trên lớp các nội dung như sau
+Buổi 1
+- Tạo Component
+- Data Binding
+Buổi 2
+- Hiểu về State
+- Thực hành tăng font-size
+- Thực hành thay đổi màu sắc xe
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
